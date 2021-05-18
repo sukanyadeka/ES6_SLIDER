@@ -1,1 +1,1 @@
-# ES6_SLIDER
+# ES6-Slider
